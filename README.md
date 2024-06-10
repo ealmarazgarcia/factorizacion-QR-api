@@ -1,0 +1,1 @@
+# factorizacion-QR-api
